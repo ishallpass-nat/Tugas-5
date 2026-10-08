@@ -3,7 +3,6 @@ $totalorder = 400000 ;
 $shippingfee = 20000 ;
 $city = "jakarta" ;
 
-
 if ($totalorder <= 0){
     echo "invalid order" ;
 } 
